@@ -1,0 +1,85 @@
+<!-- Google Boogle (Google Book Search)
+
+https://google-boogle.herokuapp.com/
+
+Google Boogle is a MERN stack application, with the React frontend used to query and display books from the Google Books API. At the user's behest, the backend will save any selected books to a Mongo database for later review.
+
+https://github.com/thomsonthomas19/google-books -->
+
+Split
+
+<!-- Rutgers URL Finder
+
+https://rutgersbookmark.herokuapp.com/#/
+
+Rutgers URL Finder is a collection of resources gained from my coding bootcamp, meant to be a library of sorts my classmates could use in case they ever needed to reference material from class or a third party. In this collaborative effort I did the entire backend setup, database setup, some frontend work, and most troubleshooting.
+
+https://github.com/thomsonthomas19/Rutgers-URL-Finder -->
+
+Split
+
+<!-- Post Back 
+
+http://frozen-dawn-64061.herokuapp.com/
+
+Post Bank is a basic Reddit clone, using Handlebars.js for the Front End and a SQL database. In this group project I handled most Front End Development and desgin choices, as well as troubleshooting for features like in-topic live chat.
+
+https://github.com/BruceH88/Social-Media-Platform -->
+
+Split
+
+<!-- TomTom Train Scheduling
+
+https://thomsonthomas19.github.io/Train-Scheduler/
+
+This train scheduler is made with vanilla JavaScript but is connected to a Firebase database, which it connects to in real-time to update the schedule and display information.
+
+https://github.com/thomsonthomas19/Train-Scheduler -->
+
+Split
+
+<!-- GIPHYAPI Gif Finder
+
+https://thomsonthomas19.github.io/GIPHYAPI/
+
+A static page using Bootstrap 4 and the GIPHY API to make it easy to find gifs of musical artists (other gifs are available).
+
+https://github.com/thomsonthomas19/GIPHYAPI -->
+
+Split
+
+<!-- Super Smash Brothers Clicky Game
+
+https://thomsonthomas19.github.io/clicky-game/
+
+A basic but challenging clicking game made in React in which users see how many unique characters from the game Super Smash Bros. Ultimate they can click on. Although made with React this app is deployed as a static web page on GitHub Pages.
+
+https://github.com/thomsonthomas19/clicky-game -->
+
+Split
+
+<!-- Note Taker
+
+https://scary-spell-36513.herokuapp.com/
+
+This is a simple note taking app, with the notes being stored on a SQL database.
+
+https://github.com/thomsonthomas19/notetaker -->
+
+Split
+
+<!-- Crystal Focus
+
+https://thomsonthomas19.github.io/unit-4-game/
+
+Crystal Focus is a basic game made with JavaScript. At the beginning of each game a randomly generated target number is created and users must reach that number by clicking on different crystals; each crystal has a different value assigned to it.
+
+https://github.com/thomsonthomas19/unit-4-game/ -->
+
+Split
+
+<!-- Burger Shoppe
+
+https://borgor.herokuapp.com/
+
+A project made with Handlebars.js and a SQL database allowing burgers to be created, moved between waiting to be eaten and being eaten, and deleted. -->

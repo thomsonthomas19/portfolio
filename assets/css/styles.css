@@ -73,16 +73,16 @@ a.btn-cta-primary:hover, .btn-cta-primary:hover {
 }
 
 a.btn-cta-secondary, .btn-cta-secondary {
-  background: #479FC8;
-  border: 1px solid #479FC8;
+  background: #b09dd3;
+  border: 1px solid #b09dd3;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 a.btn-cta-secondary:hover, .btn-cta-secondary:hover {
-  background: #3893bd;
-  border: 1px solid #3893bd;
+  background: #8576a1;
+  border: 1px solid #8576a1;
   color: #fff;
 }
 
@@ -293,7 +293,7 @@ a.dotted-link:hover {
   text-align: center;
   text-transform: uppercase;
   color: #fff;
-  background-color: #479FC8;
+  background-color: #b09dd3;
   -webkit-transform: rotate(45deg) translate3d(0, 0, 0);
   -moz-transform: rotate(45deg) translate3d(0, 0, 0);
   -ms-transform: rotate(45deg) translate3d(0, 0, 0);
@@ -304,7 +304,7 @@ a.dotted-link:hover {
   content: '';
   position: absolute;
   bottom: -5px;
-  border-top: 5px solid #276582;
+  border-top: 5px solid #8576a1;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
 }
